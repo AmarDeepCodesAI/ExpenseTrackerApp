@@ -231,7 +231,14 @@ PORT=5000
 
 # 📸 Screenshots
 
-Add screenshots here after running the project locally.
+<img width="1918" height="905" alt="image" src="https://github.com/user-attachments/assets/f6f544f3-9ef5-4be9-97f8-77afa87ca56c" />
+<img width="1918" height="861" alt="image" src="https://github.com/user-attachments/assets/149a5edf-5cbc-4af7-bfae-e56e1676d99f" />
+<img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/7f7a7a63-cce9-47e8-8e4c-066f9ccb41b9" />
+<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/0ea5a5d8-5fae-4025-8be7-8005bf930d9a" />
+<img width="947" height="912" alt="image" src="https://github.com/user-attachments/assets/19280a78-fb63-4334-aa10-8df14666b024" />
+<img width="965" height="715" alt="image" src="https://github.com/user-attachments/assets/8574fc16-8733-4922-8152-f5276bcc8118" />
+
+
 
 ```bash
 screenshots/
